@@ -21,3 +21,7 @@ A Spring Boot REST service that generates a report showing which users have acce
 1. Clone the repository:
    ```bash
    git clone https://github.com/afreedsk/github-access-report.git
+
+## Google Doc 
+
+https://docs.google.com/document/d/1xnQy4-eLS2wx_7iq43BwKRc9dCHESRccvJSPVRCb7BU/edit?usp=sharing
